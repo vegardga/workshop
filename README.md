@@ -62,6 +62,7 @@ For å løse denne oppgaven må du altså få LED-lyset til å blinke hvert seku
 
 <details>
 <summary>Klikk her for løsningsforslag</summary>
+<p>
 ```javascript
 var five = require("johnny-five");
 var board = new five.Board();
@@ -71,4 +72,5 @@ board.on("ready", function() {
   led.blink(1000);
 });
 ```
+</p>
 </details>
