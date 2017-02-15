@@ -31,10 +31,10 @@ board.on("ready", function() {
 For å komme i gang er det fint å kunne ta det gradvis gjennom oppgaver. Derfor er det lagt ved en del oppgaver under, som man kan ta i den rekkefølgen man selv ønsker. De er selvfølgelig lagt opp i en spesiell rekkefølge, som gradvis blir vanskeligere og vanskeligere. Men hvis man syns det går for sakte fremover, eller hvis man kan mye fra før av, så er det bare å hoppe over visse oppgaver og heller prøve seg på mer avanserte saker!
 
 ## 01 - LED
-[Klikk her for oppgaver](https://github.com/vegardga/workshop/oppgaver/led.md)
+[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/led.md)
 
 ## 02 - Knapper
-[Klikk her for oppgaver](https://github.com/vegardga/workshop/oppgaver/knapper.md)
+[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/knapper.md)
 
 ## 03 - Servo
 
