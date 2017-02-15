@@ -17,6 +17,16 @@ Tegninger/beskrivelse. Bla bla bla. Fylle ut noe greier her.
 ### Johnny-Five
 Tegninger/beskrivelse. Bla bla bla. Fylle ut noe greier her.
 
+```javascript
+var five = require("johnny-five");
+var board = new five.Board();
+
+board.on("ready", function() {
+  var led = new five.Led(13);
+  led.on();
+});
+```
+
 # Oppgaver
 For å komme i gang er det fint å kunne ta det gradvis gjennom oppgaver. Derfor er det lagt ved en del oppgaver under, som man kan ta i den rekkefølgen man selv ønsker. De er selvfølgelig lagt opp i en spesiell rekkefølge, som gradvis blir vanskeligere og vanskeligere. Men hvis man syns det går for sakte fremover, eller hvis man kan mye fra før av, så er det bare å hoppe over visse oppgaver og heller prøve seg på mer avanserte saker!
 
