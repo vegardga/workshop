@@ -46,7 +46,7 @@ Bare for å ta et eksempel, hvor man holder en workshop med 10 deltakere og man 
 Da ender man opp med følgende budsjett.
 
 | Utstyr | Antall | Kostnad (kr) | Lenke |
-| --- | ---: | ---|
+| --- | ---: | ---: | ---|
 | Raspberry Pi 3 | 10 | 399,90 | [Lenke](https://www.kjell.com/no/produkter/data-og-nettverk/enkortsdata/raspberry-pi/raspberry-pi-3-model-b-ettkortsdatamaskin-p88000) |
 | Mikro SD-kort | 10 | 139,90 | [Lenke](https://www.komplett.no/product/859374/mobil/minnekort/micro-sd/kingston-microsd-kort-32gb) |
 | Kabinett for RPi | 10 | 99,90 | [Lenke](https://www.kjell.com/no/produkter/data-og-nettverk/enkortsdata/raspberry-pi/kabinett-for-raspberry-pi-2-3-model-b-transparent-p87283) |
