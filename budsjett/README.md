@@ -30,7 +30,7 @@ Noe av utstyret er felles for alle deltakerne, og kan deles på underveis i work
 | Koblingsbrett | 10 | 49,90 | [Lenke](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/arduino/tilbehor/koblingsbrett-loddefritt-p87886) |
 | Avstandssensor | 5-10 | 69,90 | [Lenke](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/arduino/moduler/avstandssensor-p87891) |
 | Servo | 5-10 | 99,90 | [Lenke](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/arduino/tilbehor/servo-0-8-kg-skyvekraft-p87897) |
-| Totalt (max) | 6053,10 | |
+| Totalt (max) | | 6053,10 | |
 
 I tillegg er det mye annet morsomt utstyr man kan investere i, om man ønsker å utvide workshopen/tilby mer til deltakerne.
 
