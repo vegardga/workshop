@@ -15,6 +15,7 @@ Under følger et utkast for hvor mye det koster i utstyr per deltaker (noe av de
 | Tastatur og mus | 199,00 | [Lenke](https://www.komplett.no/product/890534/datautstyr/mustastatur/tastatur/svive-tastatur-og-mus#) |
 | PC-skjerm | 1395,00 | [Lenke](https://www.komplett.no/product/864863/datautstyr/skjermer/skjermer/philips-24-led-240v5qdab#) |
 | HDMI-kabel | 149,90 | [Lenke](https://www.kjell.com/no/produkter/data-og-nettverk/kabler-og-adaptere/hdmi/hdmi-kabler/hdmi-kabel-high-speed-svart-1-m-p68094) |
+| Totalt | 2887,30 | |
 
 Noe av utstyret er felles for alle deltakerne, og kan deles på underveis i workshopen. Så dette trenger man ikke å kjøpe inn til hver enkelt deltaker, men det holder med X antall av disse. Det er heller ikke nødvendig å f.eks. kjøpe 3 oppstartspakker, 3 påbyggersett og 3 startpakker for Arduino. Disse kan fint kombineres, at man kjøper inn litt av hvert. Det er bare for å ha litt å leke med, da pakkene inneholder forskjellige sensorer/utstyr.
 
@@ -29,6 +30,7 @@ Noe av utstyret er felles for alle deltakerne, og kan deles på underveis i work
 | Koblingsbrett | 10 | 49,90 | [Lenke](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/arduino/tilbehor/koblingsbrett-loddefritt-p87886) |
 | Avstandssensor | 5-10 | 69,90 | [Lenke](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/arduino/moduler/avstandssensor-p87891) |
 | Servo | 5-10 | 99,90 | [Lenke](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/arduino/tilbehor/servo-0-8-kg-skyvekraft-p87897) |
+| Totalt (max) | 6053,10 | |
 
 I tillegg er det mye annet morsomt utstyr man kan investere i, om man ønsker å utvide workshopen/tilby mer til deltakerne.
 
