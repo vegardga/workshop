@@ -31,12 +31,22 @@ board.on("ready", function() {
 For å komme i gang er det fint å kunne ta det gradvis gjennom oppgaver. Derfor er det lagt ved en del oppgaver under, som man kan ta i den rekkefølgen man selv ønsker. De er selvfølgelig lagt opp i en spesiell rekkefølge, som gradvis blir vanskeligere og vanskeligere. Men hvis man syns det går for sakte fremover, eller hvis man kan mye fra før av, så er det bare å hoppe over visse oppgaver og heller prøve seg på mer avanserte saker!
 
 ## 01 - LED
-[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/led.md)
+[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/01_led.md)
 
 ## 02 - Knapper
-[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/knapper.md)
+[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/02_knapper.md)
 
 ## 03 - Servo
+[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/03_servo.md)
 
+## 04 - Avstand
+[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/04_proximity.md)
 
-## 04 - ...
+## 05 - Lyd
+[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/05_piezo.md)
+
+## 06 - Joystick
+[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/06_joystick.md)
+
+## 07 - Diverse sensorer
+[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/07_sensors.md)
