@@ -5,7 +5,8 @@ En beskrivelse om hvilke typer oppgaver dette er. Fylle ut med noe greier, og ka
 For å lære seg noe nytt må man starte i det små, og så gradvis øke vanskelighetsgraden og skaffe seg mer kunnskap.
 Derfor går den første oppgaven ut på å få lys i én enkelt LED.
 
-> Oppgave: Skru på lyset i en LED.
+> Oppgave:
+> Skru på lyset i en LED.
 
 <details>
 <summary>Klikk her for løsningsforslag</summary>
