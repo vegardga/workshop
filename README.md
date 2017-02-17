@@ -50,3 +50,6 @@ For å komme i gang er det fint å kunne ta det gradvis gjennom oppgaver. Derfor
 
 ## 07 - Diverse sensorer
 [Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/07_sensors.md)
+
+## 08 - Brukerinput
+[Klikk her for oppgaver](https://github.com/vegardga/workshop/blob/master/oppgaver/08_repl.md)

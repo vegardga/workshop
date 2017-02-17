@@ -9,3 +9,4 @@ Her finner du en oversikt over eksisterende oppgaver. Hvis man allerede har noe 
 * [05 - Lyd](https://github.com/vegardga/workshop/blob/master/oppgaver/05_piezo.md)
 * [06 - Joystick](https://github.com/vegardga/workshop/blob/master/oppgaver/06_joystick.md)
 * [07 - Diverse sensorer](https://github.com/vegardga/workshop/blob/master/oppgaver/07_sensors.md)
+* [08 - Brukerinput](https://github.com/vegardga/workshop/blob/master/oppgaver/08_repl.md)
