@@ -12,7 +12,7 @@ Tegninger/beskrivelse. Bla bla bla. Fylle ut noe greier her.
 ### Arduino
 ![alt text](https://www.arduino.cc/en/uploads/Products/Uno.jpg "Raspberry Pi")
 
-Tegninger/beskrivelse. Bla bla bla. Fylle ut noe greier her.
+Tegninger/beskrivelse. Bla bla bla. Fylle ut noe greier her..
 
 ### Johnny-Five
 Tegninger/beskrivelse. Bla bla bla. Fylle ut noe greier her.
