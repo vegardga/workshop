@@ -1,13 +1,6 @@
 # Creator
 
-## Steg 01 - Utstyr
-Finn fram følgende utstyr:
-- 1 stk LED
-- 1 stk motstand
-- 1 stk svart ledning
-- 1 stk rød ledning
-
-## Steg 02 - Koblinger
+## Steg 01 - Koble
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_01.png "Arduino og koblingsbrett")
 
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_02.png "LED")
@@ -18,7 +11,7 @@ Finn fram følgende utstyr:
 
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_05.png "GPIO")
 
-## Steg 03 - Kode
+## Steg 02 - Kode
 ```javascript
 var five = require("johnny-five");
 var board = new five.Board();
@@ -29,5 +22,5 @@ board.on("ready", function() {
 });
 ```
 
-## Steg 04 - Kjør!
+## Steg 03 - Prøv!
 terminal og kjør
