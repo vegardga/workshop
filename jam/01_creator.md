@@ -1,4 +1,4 @@
-# Creator
+# 1 - Creator
 
 ## Klar?
 Husk å koble Arduinoen fra Raspberry Pien før du går i gang med å koble egne kretser.
@@ -32,6 +32,8 @@ Skriv følgende i kommandolinja:
 ```
 node creator.js
 ```
+
+Bruk kombinasjonen `ctrl` + `c` på tastaturet et par ganger for å stoppe kjøringen.
 
 ## Ferdig?
 Skriv følgende i kommandolinja:
