@@ -22,6 +22,7 @@ Husk å koble Arduinoen fra Raspberry Pien før du går i gang med å koble egne
 
 ### 4/14
 Servoen ligger ikke i boksen, du finner ledningene som er koblet til servoen på pulten.
+
 <img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_04.png" alt="Servo"/>
 
 ### 5/14
@@ -38,10 +39,12 @@ Servoen ligger ikke i boksen, du finner ledningene som er koblet til servoen på
 
 ### 9/14
 OBS! Denne må kobles riktig vei på koblingsbrettet. Koble den slik at "øynene" peker utover.
+
 <img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_09.png" alt="HC-SR04"/>
 
 ### 10/14
 OBS! Se på avstandsmåleren, og finn ut hvilken ledning som er "GND". Det er denne som er jord.
+
 <img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_10.png" alt="HC-SR04 - Jord"/>
 
 ### 11/14

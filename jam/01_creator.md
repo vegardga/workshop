@@ -14,6 +14,7 @@ Følg framgangsmåten under:
 
 ### 2/5
 OBS! Legg merke til hvilket "bein" som er lengst og kortest. Det lengste skal være til høyre (som senere kobles med motstanden).
+
 <img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_02.png" alt="LED"/>
 
 ### 3/5
