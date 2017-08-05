@@ -10,7 +10,7 @@ Husk å koble Arduinoen fra Raspberry Pien før du går i gang med å koble egne
 Følg stegen under:
 
 ### 1/5
-<div style="width: 50%">
+<div style="width: 50%" markdown="1">
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_01.png "Arduino og koblingsbrett")
 </div>
 
