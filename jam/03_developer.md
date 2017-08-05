@@ -1,36 +1,59 @@
 # 3 - Developer
+Ferdig med oppgave 1 og 2 allerede? Wow, dette går unna!
+
+I denne siste oppgaven skal du bruke en avstandsmåler for å styre en servo (eller motor om du vil).
+Avstandsmåleren er den dingsen som har "to øyne", så husk å koble denne med "øynene" utover på koblingbrettet.
+
+Lykke til!
 
 ## Klar?
 Husk å koble Arduinoen fra Raspberry Pien før du går i gang med å koble egne kretser.
 
 ## Steg 01 - Koble
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_01.png "Arduino og koblingsbrett")
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_02.png "Jord")
+### 1/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_01.png" alt="Arduino og koblingsbrett"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_03.png "Power")
+### 2/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_02.png" alt="Jord"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_04.png "Servo")
+### 3/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_03.png" alt="Power"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_05.png "Servo - Jord")
+### 4/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_04.png" alt="Servo"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_06.png "Servo - Power")
+### 5/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_05.png" alt="Servo - Jord"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_07.png "Servo - GPIO")
+### 6/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_06.png" alt="servo - Power"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_08.png "Servo - GPIO 2")
+### 7/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_07.png" alt="Servo - GPIO"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_09.png "HC-SR04")
+### 8/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_08.png" alt="Servo - GPIO 2"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_10.png "HC-SR04 - Jord")
+### 9/14
+OBS! Denne må kobles riktig vei på koblingsbrettet. Koble den slik at "øynene" peker utover.
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_09.png" alt="HC-SR04"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_11.png "HC-SR04 - Power")
+### 10/14
+OBS! Se på avstandsmåleren, og finn ut hvilken ledning som er "GND". Det er denne som er jord.
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_10.png" alt="HC-SR04 - Jord"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_12.png "HC-SR04 - Trig")
+### 11/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_11.png" alt="HC-SR04 - Power"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_13.png "HC-SR04 - Echo")
+### 12/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_12.png" alt="HC-SR04 - Trig"/>
 
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/03_14.png "HC-SR04 - GPIO")
+### 13/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_13.png" alt="HC-SR04 - Echo"/>
+
+### 14/14
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_14.png" alt="HC-SR04 - GPIO"/>
 
 ## Steg 02 - Kode
 ```javascript
@@ -57,6 +80,10 @@ board.on("ready", function() {
 });
 ```
 
+Det er viktig at det er store bokstaver der det står store bokstaver, og små bokstaver der det står små.
+
+Husk å lagre filen! Enten gjennom menyen, `Fil` -> `Save`, eller trykk kombinasjonen `ctrl` + `s` på tastaturet.
+
 ## Steg 03 - Prøv!
 Skriv følgende i kommandolinja:
 ```
@@ -66,9 +93,9 @@ node developer.js
 Bruk kombinasjonen `ctrl` + `c` på tastaturet et par ganger for å stoppe kjøringen.
 
 ## Ferdig?
-Skriv følgende i kommandolinja:
-```
-./done.sh
-```
+Kult, du har nå gjennomført oppgave 3 av 3!
 
-Husk å koble fra hverandre kretsene før du går videre :)
+Husk å koble fra hverandre kretsene før du avslutter :)
+
+## Problemer?
+Bare å spørre, vi er her for å hjelpe til!

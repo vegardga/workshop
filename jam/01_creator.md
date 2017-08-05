@@ -16,7 +16,6 @@ Følg stegen under:
 <img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_02.png" alt="LED"/>
 
 ### 3/5
-
 <img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_03.png" alt="Motstand"/>
 
 ### 4/5
@@ -55,3 +54,6 @@ Bruk kombinasjonen `ctrl` + `c` på tastaturet et par ganger for å stoppe kjør
 Kult, du har nå gjennomført oppgave 1 av 3!
 
 Husk å koble fra hverandre kretsene før du går videre :)
+
+## Problemer?
+Bare å spørre, vi er her for å hjelpe til!
