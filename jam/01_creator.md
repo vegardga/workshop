@@ -10,19 +10,20 @@ Husk å koble Arduinoen fra Raspberry Pien før du går i gang med å koble egne
 Følg stegen under:
 
 ### 1/5
-<img width="200" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_01.png" alt="Arduino og koblingsbrett"/>
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_01.png" alt="Arduino og koblingsbrett"/>
 
 ### 2/5
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_02.png "LED")
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_02.png" alt="LED"/>
 
 ### 3/5
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_03.png "Motstand")
+
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_03.png" alt="Motstand"/>
 
 ### 4/5
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_04.png "Jord")
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_04.png" alt="Jord"/>
 
 ### 5/5
-![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_05.png "GPIO")
+<img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_05.png" alt="GPIO"/>
 
 ## Steg 02 - Kode
 Etter at koblingene er gjort er det tid for å kode litt!
