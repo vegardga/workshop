@@ -70,7 +70,7 @@ board.on("ready", function() {
         ["G4", 1/4],
         [null, 7/4]
       ],
-      tempo: 100
+      tempo: 220
     });
   });
 });
