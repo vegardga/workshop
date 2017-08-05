@@ -10,7 +10,9 @@ Husk å koble Arduinoen fra Raspberry Pien før du går i gang med å koble egne
 Følg stegen under:
 
 ### 1/5
+<div style="width: 50%">
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_01.png "Arduino og koblingsbrett")
+</div>
 
 ### 2/5
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_02.png "LED")
@@ -54,9 +56,3 @@ Bruk kombinasjonen `ctrl` + `c` på tastaturet et par ganger for å stoppe kjør
 Kult, du har nå gjennomført oppgave 1 av 3!
 
 Husk å koble fra hverandre kretsene før du går videre :)
-
-<style>
-img {
-  width: 50%;
-}
-</style>
