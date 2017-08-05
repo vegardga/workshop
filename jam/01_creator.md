@@ -1,21 +1,32 @@
 # 1 - Creator
+Velkommen!
+
+Håper du er klar for å koble og kode :) Den første oppgaven går ut på å få et LED-lys til å blinke.
 
 ## Klar?
 Husk å koble Arduinoen fra Raspberry Pien før du går i gang med å koble egne kretser.
 
 ## Steg 01 - Koble
 Følg stegen under:
+
+### 1/5
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_01.png "Arduino og koblingsbrett")
 
+### 2/5
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_02.png "LED")
 
+### 3/5
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_03.png "Motstand")
 
+### 4/5
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_04.png "Jord")
 
+### 5/5
 ![alt text](https://github.com/vegardga/workshop/blob/master/jam/images/01_05.png "GPIO")
 
 ## Steg 02 - Kode
+Etter at koblingene er gjort er det tid for å kode litt!
+
 Skriv følgende i teksteditoren:
 ```javascript
 var five = require("johnny-five");
@@ -27,6 +38,10 @@ board.on("ready", function() {
 });
 ```
 
+Det er viktig at det er store bokstaver der det står store bokstaver, og små bokstaver der det står små.
+
+Husk å lagre filen! Enten gjennom menyen, `Fil` -> `Save`, eller trykk kombinasjonen `ctrl` + `s` på tastaturet.
+
 ## Steg 03 - Prøv!
 Skriv følgende i kommandolinja:
 ```
@@ -36,9 +51,12 @@ node creator.js
 Bruk kombinasjonen `ctrl` + `c` på tastaturet et par ganger for å stoppe kjøringen.
 
 ## Ferdig?
-Skriv følgende i kommandolinja:
-```
-./done.sh
-```
+Kult, du har nå gjennomført oppgave 1 av 3!
 
 Husk å koble fra hverandre kretsene før du går videre :)
+
+<style>
+img {
+  width: 50%;
+}
+</style>
