@@ -7,12 +7,13 @@ Håper du er klar for å koble og kode :) Den første oppgaven går ut på å f�
 Husk å koble Arduinoen fra Raspberry Pien før du går i gang med å koble egne kretser.
 
 ## Steg 01 - Koble
-Følg stegen under:
+Følg framgangsmåten under:
 
 ### 1/5
 <img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_01.png" alt="Arduino og koblingsbrett"/>
 
 ### 2/5
+OBS! Legg merke til hvilket "bein" som er lengst og kortest. Det lengste skal være til høyre (som senere kobles med motstanden).
 <img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/01_02.png" alt="LED"/>
 
 ### 3/5
@@ -27,7 +28,7 @@ Følg stegen under:
 ## Steg 02 - Kode
 Etter at koblingene er gjort er det tid for å kode litt!
 
-Skriv følgende i teksteditoren:
+Skriv følgende i terminalen:
 ```javascript
 var five = require("johnny-five");
 var board = new five.Board();
@@ -43,6 +44,7 @@ Det er viktig at det er store bokstaver der det står store bokstaver, og små b
 Husk å lagre filen! Enten gjennom menyen, `Fil` -> `Save`, eller trykk kombinasjonen `ctrl` + `s` på tastaturet.
 
 ## Steg 03 - Prøv!
+Koble arduinoen til RasberryPien med USB-kabelen.
 Skriv følgende i terminalen:
 ```
 node creator.js

@@ -21,6 +21,7 @@ Husk å koble Arduinoen fra Raspberry Pien før du går i gang med å koble egne
 <img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_03.png" alt="Power"/>
 
 ### 4/14
+Servoen ligger ikke i boksen, du finner ledningene som er koblet til servoen på pulten.
 <img width="500" src="https://github.com/vegardga/workshop/blob/master/jam/images/03_04.png" alt="Servo"/>
 
 ### 5/14
@@ -65,7 +66,7 @@ board.on("ready", function() {
   var proximity = new five.Proximity({
     controller: "HCSR04",
     pin: 7,
-    freq: 1000
+    freq: 500
   });
 
   proximity.on("data", function() {
@@ -85,6 +86,7 @@ Det er viktig at det er store bokstaver der det står store bokstaver, og små b
 Husk å lagre filen! Enten gjennom menyen, `Fil` -> `Save`, eller trykk kombinasjonen `ctrl` + `s` på tastaturet.
 
 ## Steg 03 - Prøv!
+Koble arduinoen til RasberryPien med USB-kabelen.
 Skriv følgende i terminalen:
 ```
 node developer.js

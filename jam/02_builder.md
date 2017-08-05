@@ -81,6 +81,7 @@ Det er viktig at det er store bokstaver der det står store bokstaver, og små b
 Husk å lagre filen! Enten gjennom menyen, `Fil` -> `Save`, eller trykk kombinasjonen `ctrl` + `s` på tastaturet.
 
 ## Steg 03 - Prøv!
+Koble arduinoen til RasberryPien med USB-kabelen.
 Skriv følgende i terminalen:
 ```
 node builder.js
